@@ -1,3 +1,2 @@
-Record=TopLevelDocument|FileName=Control_Board_Controller.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Control_Board_Controller.SchDoc|FileName=Control_Board_Power.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Control_Board_Controller.SchDoc|FileName=Control_Board_PowerSwitch.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=Control_Board_Power.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Control_Board_Power.SchDoc|FileName=Control_Board_PowerSwitch.SchDoc|SheetNumber= 
